@@ -16,7 +16,7 @@ const express_1 = __importDefault(require("express"));
 const axios_1 = __importDefault(require("axios"));
 const app = (0, express_1.default)();
 const PORT = process.env.PORT || 3000;
-// Define a function to group user data
+// function to group user data
 function groupUserData(data) {
     const groupedData = {};
     data.users.forEach((user) => {
