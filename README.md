@@ -16,15 +16,15 @@ Before you get started, make sure you have the following installed on your syste
    ```bash
    git clone https://github.com/Toey-Dethsakda/api-testing.git
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 
-Install project dependencies:
+3. Install project dependencies:
     $ npm install
-Usage
+4. Usage
     $ npm start
 
-This will launch the application in your default web browser on your PORT.
-Exam "localhost:3000/users"
+- This will launch the application in your default web browser on your PORT.
+   Exam "localhost:3000/users"
 
 Dependencies
     Express: A fast, minimalist web framework for Node.js.
